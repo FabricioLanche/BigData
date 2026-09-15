@@ -1,0 +1,6 @@
+.agents/
+dataset/
+.venv/
+scripts/
+main.tex
+__pycache__/
