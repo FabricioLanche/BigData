@@ -4,3 +4,4 @@ dataset/
 scripts/
 main.tex
 __pycache__/
+*/dask-expr.svg
