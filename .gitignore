@@ -1,5 +1,6 @@
 .agents/
 dataset/
+figs_local/
 .venv/
 scripts/
 main.tex
